@@ -1,0 +1,13 @@
+body{
+   background-color: tan;
+}
+h1{
+   color: green;
+}
+.maindiv{
+   border: 5px black solid;
+   border-radius: 30px;
+   padding: 20px 20px;
+   padding-right: 200px;
+   box-sizing: content-box;
+}
